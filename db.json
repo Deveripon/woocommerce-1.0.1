@@ -1,0 +1,481 @@
+{
+  "products": [{
+      "id": 1,
+      "productId": 1,
+      "categoryID": 1,
+      "brandId": 1,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "categoryID": 2,
+      "brandId": 3,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "categoryID": 3,
+      "brandId": 3,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "categoryID": 4,
+      "brandId": 4,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "categoryID": 5,
+      "brandId": 5,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "categoryID": 6,
+      "brandId": 6,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "categoryID": 7,
+      "brandId": 7,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+
+    {
+      "id": 8,
+      "productId": 8,
+      "categoryID": 8,
+      "brandId": 8,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 9,
+      "productId": 9,
+      "categoryID": 9,
+      "brandId": 9,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "categoryID": 10,
+      "brandId": 10,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 11,
+      "productId": 11,
+      "categoryID": 11,
+      "brandId": 11,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    },
+    {
+      "id": 12,
+      "productId": 12,
+      "categoryID": 12,
+      "brandId": 12,
+      "name": "Apple Macbook Pro M1 16\"",
+      "instockStatus": true,
+      "sku": 12200,
+      "featuredImageUrl": "http://",
+      "galleryImageUrl": [],
+      "productType": ["Hot", "Tranding"],
+      "regulerPrice": 1990,
+      "discount": 100,
+      "discountPrice": 1890,
+      "discountPercentage": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas reiciendis aliquid autem libero quaerat aperiam illo neque vel doloribus? Inventore eaque saepe quis, dolore molestias ipsa a aliquam quaerat corporis, quasi praesentium adipisci non neque quam esse deserunt maiores cum odio numquam autem magnam? Perferendis doloribus ea ullam distinctio dignissimos.",
+      "varations": {
+        "color": ["red", "silver", "white"],
+        "size": []
+      },
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+
+    }
+
+  ],
+  "category": [{
+      "id": 1,
+      "name": "Computer & Accessories",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 2,
+      "name": "Phone & Cases",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 3,
+      "name": "Clothings",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 4,
+      "name": "Beauty & Screen-Care",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 5,
+      "name": "Womens Special",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 6,
+      "name": "Gents Special",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 7,
+      "name": "Power Tools",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 8,
+      "name": "Watch and Lathers",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 9,
+      "name": "Grooceries",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    },
+    {
+      "id": 10,
+      "name": "Electronics & Electrical",
+      "categoryPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00.000Z"
+
+    }
+  ],
+  "brand": [{
+      "id": 1,
+      "name": "Apple",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 2,
+      "name": "Symphony",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 3,
+      "name": "Nokia",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 4,
+      "name": "Samsung",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 5,
+      "name": "Woolmart",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 6,
+      "name": "H&M",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 7,
+      "name": "re ve be",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 8,
+      "name": "Foggs",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 9,
+      "name": "Smog",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    },
+    {
+      "id": 10,
+      "name": "Denim",
+      "brandPhotoUrl": "http://",
+      "status": "available",
+      "createdAt": "2020-01-01T00:00:00.000Z",
+      "updatedAt": "2020-01-01T00:00:00."
+    }
+
+  ]
+
+
+
+}
